@@ -1,0 +1,9 @@
+[package]
+name = "cars"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[profile.release]
+debug = 0
